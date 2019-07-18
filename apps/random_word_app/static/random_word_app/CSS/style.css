@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    align-content: center;
+}
+.top_box{
+    height: 75px;
+    width: 500px;
+    border-style: none;
+    border-color: none ;
+}
+.bottom_box{
+    height: 120px;
+    width: 500px;
+    border-style: solid;
+    border-color: pink;
+}
